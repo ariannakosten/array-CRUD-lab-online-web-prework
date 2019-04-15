@@ -11,15 +11,15 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  months.unshift ("May")
+  
 end
 
 def remove_element_from_end_of_array(array)
-  months.pop
+ 
 end
 
 def remove_element_from_start_of_array(array)
-  months.shift
+  
 end
 
 def retrieve_element_from_index(array, index_number)
